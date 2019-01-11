@@ -15,13 +15,13 @@ npm run dev
 
 ## Iteration
 
-### 0.0.1
+### 1.0.0
 
 - client 采用在 Vue 组件中注入 apollo 选项进行查询
 - server 讲 type 定义在单独的.gql 文件中 方便查看与修改
 - 使用 mongoose 来连接[mongoDB 的云服务](https://docs.mlab.com/)
 
-### 0.0.2
+### 2.0.0
 
 ...
 
